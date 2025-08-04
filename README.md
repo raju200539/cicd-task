@@ -152,21 +152,20 @@ describe('GET /status', () => {
 
 ## 📦 DockerHub Repository
 
-🔗 [hubrajupadidapu/elevate-task-1](https://hub.docker.com/layers/rajupadidapu/elevate-task-1)
+🔗(https://hub.docker.com/layers/rajupadidapu/elevate-task-1)
 
 ---
 
 ## 📬 Submission
 
 ✅ Task completed and submitted for **DevOps Internship – Task 1**  
-📅 Submission Date: *(Insert Date)*  
-🔗 GitHub Repository: *(Insert Your Repo URL)*
+📅 Submission Date: *04/08/2025*  
 
 ---
 
 ## 🙋‍♂️ Author
 
-- **Name:** Your Name  
+- **Name:** PADIDAPU VENKATA PATHIRAJU 
 - **GitHub:** [@raju200539](https://github.com/cicd-task)  
 - **Email:** venkatapathirajupadidapu@gmail.com
 
