@@ -33,8 +33,8 @@ This project demonstrates how to automate the deployment of a Node.js web applic
 ```
 nodejs-ci-cd-app/
 ├── .github/workflows/main.yml   # GitHub Actions workflow
-├── server.js                 # Express web server
-├── tests/server.test.js      # API test using supertest + Jest
+├── app.js                 # Express web server
+├── tests/app.test.js      # API test using supertest + Jest
 ├── Dockerfile                # Docker image build instructions
 ├── package.json                  # Node.js dependencies & scripts
 └── README.md                     # This documentation
@@ -65,8 +65,8 @@ The workflow is defined in `.github/workflows/ci-cd.yml`.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nodejs-ci-cd-app.git
-cd nodejs-ci-cd-app
+git clone https://github.com/raju200539/cicd-task.git
+cd cicd-task
 ```
 
 2. Install dependencies:
